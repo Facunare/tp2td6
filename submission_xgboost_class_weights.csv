@@ -24,7 +24,7 @@ Id,Expected
 3529,electronic
 5368,classical
 1729,rock
-5590,rock
+5590,hip-hop
 2457,hip-hop
 3181,acoustic
 5003,jazz
@@ -158,7 +158,7 @@ Id,Expected
 3795,acoustic
 726,jazz
 611,jazz
-3425,electronic
+3425,hip-hop
 1361,hip-hop
 3622,jazz
 4457,rock
@@ -180,7 +180,7 @@ Id,Expected
 3723,hip-hop
 3155,rock
 4756,jazz
-2210,jazz
+2210,classical
 4422,jazz
 677,jazz
 2798,acoustic
@@ -236,7 +236,7 @@ Id,Expected
 5681,classical
 2624,acoustic
 3606,jazz
-1983,classical
+1983,acoustic
 2544,jazz
 2918,acoustic
 4981,acoustic
@@ -256,7 +256,7 @@ Id,Expected
 4404,acoustic
 2852,jazz
 3484,electronic
-2890,electronic
+2890,acoustic
 3250,acoustic
 1741,jazz
 5850,hip-hop
@@ -389,7 +389,7 @@ Id,Expected
 4804,rock
 4544,acoustic
 1445,hip-hop
-3831,electronic
+3831,acoustic
 4822,jazz
 4336,rock
 3030,rock
@@ -496,7 +496,7 @@ Id,Expected
 4011,electronic
 602,rock
 3788,classical
-4696,rock
+4696,hip-hop
 3759,classical
 3395,electronic
 3291,acoustic
@@ -609,7 +609,7 @@ Id,Expected
 2274,classical
 4314,hip-hop
 1562,hip-hop
-5284,jazz
+5284,classical
 2978,electronic
 2413,hip-hop
 133,jazz
@@ -849,7 +849,7 @@ Id,Expected
 5252,hip-hop
 3290,jazz
 2437,classical
-4456,electronic
+4456,acoustic
 2775,hip-hop
 130,jazz
 2725,hip-hop
@@ -1063,7 +1063,7 @@ Id,Expected
 5591,electronic
 4848,hip-hop
 2369,acoustic
-2777,jazz
+2777,acoustic
 1840,classical
 2356,hip-hop
 3642,electronic
@@ -1204,7 +1204,7 @@ Id,Expected
 425,hip-hop
 480,classical
 5676,acoustic
-3323,jazz
+3323,acoustic
 3940,hip-hop
 2468,acoustic
 3442,rock
@@ -1375,7 +1375,7 @@ Id,Expected
 1049,hip-hop
 4246,jazz
 5156,acoustic
-3355,jazz
+3355,acoustic
 4956,rock
 4102,hip-hop
 1253,classical
@@ -1409,7 +1409,7 @@ Id,Expected
 951,acoustic
 2907,acoustic
 383,rock
-2293,jazz
+2293,classical
 5954,acoustic
 3068,rock
 3874,rock
@@ -1428,7 +1428,7 @@ Id,Expected
 25,jazz
 5319,rock
 282,electronic
-4077,rock
+4077,acoustic
 4124,classical
 4602,rock
 1595,classical
@@ -1790,9 +1790,9 @@ Id,Expected
 5046,classical
 2503,acoustic
 5103,electronic
-4612,rock
+4612,hip-hop
 3111,rock
-4387,electronic
+4387,hip-hop
 1836,electronic
 4417,classical
 1835,electronic
